@@ -1,0 +1,45 @@
+
+.titulo {
+  text-align: center;
+  color: blue;
+}
+p {
+  text-align: center;
+}
+.boton {
+  font-size: 30px;
+  color: rgb(226, 43, 43);
+  position: static;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+}
+.show-element {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  justify-content: center;
+}
+h3 {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  color: white;
+  background-color: DodgerBlue;
+}
+.numero {
+  font-size: 30px;
+  color: rgb(43, 46, 226);
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
